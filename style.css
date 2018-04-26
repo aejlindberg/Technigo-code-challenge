@@ -1,0 +1,32 @@
+/* Example styling of a h1 element */
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+  background-color: silver;
+}
+
+input {
+  width: 200px;
+  background-color: #ffee00;
+  margin-top: 25px;
+  text-align: center;
+  font-weight: bold;
+  color: black;
+  border: 1px solid;
+  padding: 2px;
+  box-shadow: 5px 6px;
+}
+
+button {
+  margin-top: 20px;
+  background-color: #e50051;
+  border-style: solid;
+  border-color: black;
+  color: black;
+  padding: 10px 15px;
+  text-align: center;
+  font-size: 16px;
+}
